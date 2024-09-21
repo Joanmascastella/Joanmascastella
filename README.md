@@ -52,7 +52,8 @@ Creatively, I enjoy drawing, photography, and cooking, where I love experimentin
 My academic and practical experiences in computer science, web development, and team collaboration lay a strong foundation for my career aspirations in technology and development.
 -->
 
-
+### Links
+<a href="https://www.kaggle.com/joanmascastella">Kaggle</a> | <a href="https://www.linkedin.com/in/joan-mas-castellà-6296491a5/">LinkedIn</a> | <a href="https://www.linkedin.com/company/más-solutions/">Mas Solutions</a> 
 
 
 
