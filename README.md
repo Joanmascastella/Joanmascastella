@@ -2,7 +2,7 @@
 
 **`Student/Developer/Aspiring Entrepreneur`**
 
-Student at OPIT | Teaching my self ML and computer vision for it to be applied in ethical solutions |
+AI Engineer | Student at OPIT 
 
    <p align="left">
       <a href="https://github.com/Joanmascastella?tab=followers">
