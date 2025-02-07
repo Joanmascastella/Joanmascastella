@@ -40,7 +40,7 @@ AI Engineer | Student at OPIT
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joanmascastella&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Joanmascastella&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Joanmascastella&theme=gruvbox&border_radius=4.5)
 
 #
 <!--
